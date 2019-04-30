@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_restpass">RestpassActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_aboutus">AboutusActivity</string>
+    <string name="title_activity_contactus">ContactusActivity</string>
+    <string name="title_activity_classtable">ClasstableActivity</string>
+    <string name="hintpass">كلمة المرور</string>
+    <string name="hintlogin">اسم المستخدم</string>
+    <string name="hintNid">Put Your National ID</string>
+    <string name="hintSubject">العنوان</string>
+    <string name="hintEmail">الايميل</string>
+    <string name="hintMessage">الرساله</string>
+    <string name="search">البحث عن طالب</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiverActivity</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+    <string name="EnterYourMail">ضع بريدك الالكتروني</string>
+    <string name="restEmail">ضع بريدك الالكتروني</string>
+    <string name="title_activity_dash_board">DashBoard</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_list_apsent">ListApsentActivity</string>
+
+</resources>

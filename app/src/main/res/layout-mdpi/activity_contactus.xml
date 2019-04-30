@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Abs1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/contact_us_screen"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ContactusActivity" >
+    
+     <Spinner
+         android:id="@+id/spinner1"
+         android:layout_width="270dp"
+         android:layout_height="33dp"
+         android:layout_marginTop="120dp"
+         android:background="@drawable/spinner"
+         android:clickable="true"
+         android:drawSelectorOnTop="true"
+         android:popupBackground="@drawable/mesho"
+        />
+
+    <EditText
+        android:id="@+id/nid_get"
+        android:layout_width="270dp"
+        android:layout_height="33dp"
+        android:layout_below="@id/spinner1"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/editbox"
+        android:ems="10"
+        android:enabled="true"
+        android:fitsSystemWindows="true"
+        android:hint="@string/hintSubject"
+        android:inputType="textEmailAddress|textNoSuggestions"
+        android:textColor="@color/LoginFields"
+        android:textColorHint="@color/LoginFields"
+        android:textColorLink="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <EditText
+        android:id="@+id/emailfromTxtus"
+        android:layout_width="270dp"
+        android:layout_height="33dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="false"
+        android:layout_below="@+id/nid_get"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/editbox"
+        android:ems="10"
+        android:enabled="true"
+        android:fitsSystemWindows="true"
+        android:hint="@string/hintEmail"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/LoginFields"
+        android:textColorHint="@color/LoginFields"
+        android:textColorLink="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:typeface="monospace" >
+
+        <requestFocus
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </EditText>
+
+    <EditText
+        android:id="@+id/messageTxt"
+        android:layout_width="270dp"
+        android:layout_height="93dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/emailfromTxtus"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/message"
+        android:ems="10"
+        android:hint="@string/hintMessage"
+        android:inputType="textEmailAddress|textNoSuggestions"
+        android:textColorHint="@color/LoginFields"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+   
+
+    <Button
+        android:id="@+id/sendbtn"
+        android:layout_width="135dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="96dp"
+        android:layout_marginTop="66dp"
+        android:background="@drawable/sendbtn" />
+
+</RelativeLayout>

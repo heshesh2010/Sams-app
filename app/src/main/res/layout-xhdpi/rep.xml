@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TableRow
+        android:id="@+id/TableRow05"
+        android:layout_width="fill_parent"
+        android:layout_height="27dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/rep" >
+
+        <CheckBox
+            android:id="@+id/CheckBox02"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="2dp"
+            android:button="@drawable/test" />
+
+        <CheckBox
+            android:id="@+id/CheckBox01"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:button="@drawable/test" />
+
+        <CheckBox
+            android:id="@+id/CheckBox"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="9dp"
+            android:layout_marginTop="2dp"
+            android:button="@drawable/test" />
+
+        <TextView
+            android:id="@+id/TextView07"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:layout_marginLeft="8dp"
+            android:textColor="@color/translucent_red"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/TextView08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/LoginFields"
+            android:textSize="12sp" />
+
+    </TableRow>
+
+</TableLayout>

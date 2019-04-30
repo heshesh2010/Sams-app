@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Abs1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/list_screen"
+    tools:context=".ListActivity1" >
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="393dp"
+        android:layout_height="250dp"
+        android:layout_below="@+id/searchlable"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+    <EditText
+        android:id="@+id/searchlable"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/settingbtn2"
+        android:background="@drawable/search_back"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="لا يوجد طلاب غائبون؟"
+        android:textColorHint="@color/LoginFields"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/getPass"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="32dp"
+        android:background="@drawable/aboutus" android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/settingbtn2" android:layout_alignStart="@+id/settingbtn2"/>
+
+    <Button
+        android:id="@+id/contactusbtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="32dp"
+        android:background="@drawable/contactusbtn" android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/classidView"/>
+
+    <TextView
+        android:id="@+id/coursenameView"
+        android:layout_width="159dp"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/classidView"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/classidView"
+        android:background="@drawable/course_id_view"
+        android:textColor="@color/translucent_red"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/sumbitbtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="100dp"
+        android:layout_height="32dp"
+        android:background="@drawable/submit_btn" android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/searchlable"/>
+
+    <TextView
+        android:id="@+id/classidView"
+        android:layout_width="160dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/searchlable"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/course_name_view"
+        android:textColor="@color/LoginFields"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/settingbtn2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="2dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/setting_btn" />
+
+    <CheckBox
+        android:id="@+id/CheckBox20"
+        android:layout_width="30dp"
+        android:layout_height="25dp"
+        android:layout_alignBaseline="@+id/settingbtn2"
+        android:layout_alignBottom="@+id/settingbtn2"
+        android:layout_alignLeft="@+id/contactusbtn"
+        android:button="@drawable/test" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="98dp"
+        android:layout_height="25dp"
+        android:layout_alignBottom="@+id/classidView"
+        android:layout_toLeftOf="@+id/CheckBox20"
+        android:textColor="@color/translucent_red"
+        android:textSize="@dimen/activity_vertical_margin"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_alignLeft="@+id/coursenameView"
+        android:textColor="@color/translucent_red"
+        android:textSize="@dimen/size2"
+        android:textStyle="bold" />
+
+</RelativeLayout>

@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Abs1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/login_screen"
+    tools:context=".LoginActivity" >
+
+
+    <EditText
+            android:id="@+id/IDLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginTop="250dp"
+           android:layout_centerHorizontal="true"
+            android:background="@drawable/editbox"
+            android:ems="10"
+            android:hint="@string/hintlogin"
+            android:inputType="textNoSuggestions"
+            android:textColor="@color/LoginFields"
+            android:textColorHint="@color/LoginFields"
+            android:textColorLink="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:typeface="monospace"
+/>
+
+    <EditText
+        android:id="@+id/LoginPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IDLogin"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/editbox"
+        android:ems="10"
+        android:hint="@string/hintpass"
+        android:inputType="textPassword|textNoSuggestions"
+        android:textColor="@color/LoginFields"
+        android:textColorHint="@color/LoginFields"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="monospace"/>
+
+
+    <Button
+            android:id="@+id/loginbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="520dp"
+            android:background="@drawable/lgoinbtn" />
+
+    <Button
+            android:id="@+id/forgetpassordbtn"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/LoginPass"
+            android:layout_marginLeft="175dp"
+            android:layout_marginTop="110dp"
+            android:layout_toRightOf="@+id/radioGroup1"
+            android:background="@drawable/forget_pass" />
+
+    <CheckBox
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/forgetpassordbtn"
+            android:layout_alignLeft="@drawable/forgtbtn"
+            android:layout_marginLeft="30dp"
+            android:button="@drawable/radio" />
+
+
+
+
+</RelativeLayout>

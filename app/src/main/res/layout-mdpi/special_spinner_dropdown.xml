@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Spinnersimple"
+    style="?android:attr/spinnerDropDownItemStyle"
+    android:layout_width="300dp"
+    android:layout_height="38dp"
+    android:ellipsize="none"
+    android:singleLine="true"
+    android:textColor="@color/LoginFields"
+    android:textColorHint="@color/LoginFields"
+    android:textIsSelectable="true"
+    android:textSize="15sp"
+    android:textStyle="bold" />
+

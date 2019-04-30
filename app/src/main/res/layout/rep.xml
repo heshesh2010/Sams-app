@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="27dp"
+    android:background="@drawable/rep"
+    android:orientation="vertical" >
+
+    <TableRow
+        android:id="@+id/TableRow05"
+        android:layout_width="match_parent"
+        android:layout_height="27dp"
+        android:layout_marginTop="4dp" >
+
+        <CheckBox
+            android:id="@+id/CheckBox02"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="2dp"
+            android:button="@drawable/test"
+            android:constantSize="true" />
+
+        <CheckBox
+            android:id="@+id/CheckBox01"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="6dp"
+            android:button="@drawable/test2"
+            android:constantSize="true" />
+
+        <CheckBox
+            android:id="@+id/CheckBox05"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="8dp"
+            android:button="@drawable/test3"
+            android:constantSize="true" />
+
+        <TextView
+            android:id="@+id/TextView07"
+            android:layout_width="110dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="0dp" />
+
+        <TextView
+            android:id="@+id/TextView08"
+            android:layout_width="85dp"
+            android:layout_height="22dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="0dp" />
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dash_board"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DashBoard" >
+
+    <Button
+        android:id="@+id/reserverbtn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@+id/autobtn"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="39dp"
+        android:background="@drawable/reverse" />
+
+    <Button
+        android:id="@+id/autobtn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="29dp"
+        android:layout_marginTop="22dp"
+        android:layout_toRightOf="@+id/reserverbtn"
+        android:background="@drawable/auto" />
+
+    <Button
+        android:id="@+id/offlinebtn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/autobtn"
+        android:layout_below="@+id/autobtn"
+        android:background="@drawable/offline" />
+
+    <Button
+        android:id="@+id/settingbtn2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBaseline="@+id/offlinebtn"
+        android:layout_alignBottom="@+id/offlinebtn"
+        android:layout_toLeftOf="@+id/autobtn"
+        android:background="@drawable/setting_intro" />
+
+</RelativeLayout>

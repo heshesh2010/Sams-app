@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\45d40e21e4f817536d4c0df0b630b869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\f068b1ebcc960031c86668f8fc426884\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\1f62e21e27cb255a1bd3a5413c866b37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\66ba89f6a25a1a761a88a9027d116097\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b29b6ddba3a4a21a3bb399072a14d0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\35774dae4de770b15fd3a367b1ac9e07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\8a3c7c407bbc0b9e701f12c00d83b14a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\28c34ba481a603b03fca5d68f854024b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c570219699632ec0b2e9c4f7060cdf9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\e6eee5e74a0c808cdbfacc89d0982d15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\79aad29917637fca5f99b42b06181ebe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\6e18cafd33c5060344a1203d6c19b752\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853f2650fc4b4853d66d46e92f533c87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\927dee96249a4e70a8ef36f01067c86f\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\9a6074615478d661fe2bad9e495bc8dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\4c02ff28bead7a9adafd1627bb6bb3a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\d8cb7bc7ff50b217e72324c3d8eae440\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c90fb6160d35d43aaa06453bc933ebbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\bdee030ff9199af5bbf696a42ad29638\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\ca5ce3fcfd5f65e0c7cbae3827c56199\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853c03e77ae860440c721cd0f236a276\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\2a38894d85d9c16e7755f33a1ad01a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\86c8c725fd552e3dc93ad82badd7043c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\74afe773b4b4cb87728dea168d1923a6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:7:5-13:40
+	android:largeScreens
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:20:22-75
+application
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:22:5-90:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\927dee96249a4e70a8ef36f01067c86f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\927dee96249a4e70a8ef36f01067c86f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:26:9-40
+activity#normal.SplashActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:30:13-49
+	android:icon
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:31:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:28:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:35:27-74
+activity#normal.LoginActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:39:13-48
+activity#normal.DashBoard
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.apps.sams.ListActivity1
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:51:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:49:13-55
+activity#normal.ContactusActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:56:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:54:13-52
+activity#normal.AboutusActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:61:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:59:13-50
+activity#normal.RestpassActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:66:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:64:13-51
+activity#normal.SettingActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:69:13-50
+activity#com.apps.sams.ClassesActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:73:9-77:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:76:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:74:13-57
+activity#yesterdayApsent.ListApsentActivity
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:78:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:80:13-49
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:79:13-62
+activity#normal.Alarm
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:theme
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:85:13-60
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:84:13-40
+receiver#normal.MyAlarmService
+ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:88:7-89:56
+	android:process
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:88:17-42
+	android:name
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml:89:17-53
+uses-sdk
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\45d40e21e4f817536d4c0df0b630b869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\45d40e21e4f817536d4c0df0b630b869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\f068b1ebcc960031c86668f8fc426884\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\f068b1ebcc960031c86668f8fc426884\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\1f62e21e27cb255a1bd3a5413c866b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\1f62e21e27cb255a1bd3a5413c866b37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\66ba89f6a25a1a761a88a9027d116097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\66ba89f6a25a1a761a88a9027d116097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b29b6ddba3a4a21a3bb399072a14d0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b29b6ddba3a4a21a3bb399072a14d0d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\35774dae4de770b15fd3a367b1ac9e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\35774dae4de770b15fd3a367b1ac9e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\8a3c7c407bbc0b9e701f12c00d83b14a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\8a3c7c407bbc0b9e701f12c00d83b14a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\28c34ba481a603b03fca5d68f854024b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\28c34ba481a603b03fca5d68f854024b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c570219699632ec0b2e9c4f7060cdf9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c570219699632ec0b2e9c4f7060cdf9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\e6eee5e74a0c808cdbfacc89d0982d15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\e6eee5e74a0c808cdbfacc89d0982d15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\79aad29917637fca5f99b42b06181ebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\79aad29917637fca5f99b42b06181ebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\6e18cafd33c5060344a1203d6c19b752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\6e18cafd33c5060344a1203d6c19b752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853f2650fc4b4853d66d46e92f533c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853f2650fc4b4853d66d46e92f533c87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\b009a82af3f60b45e5f08e6af1cbea88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\927dee96249a4e70a8ef36f01067c86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\927dee96249a4e70a8ef36f01067c86f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\9a6074615478d661fe2bad9e495bc8dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\9a6074615478d661fe2bad9e495bc8dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\4c02ff28bead7a9adafd1627bb6bb3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\4c02ff28bead7a9adafd1627bb6bb3a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\d8cb7bc7ff50b217e72324c3d8eae440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\d8cb7bc7ff50b217e72324c3d8eae440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c90fb6160d35d43aaa06453bc933ebbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\c90fb6160d35d43aaa06453bc933ebbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\bdee030ff9199af5bbf696a42ad29638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\bdee030ff9199af5bbf696a42ad29638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\ca5ce3fcfd5f65e0c7cbae3827c56199\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\ca5ce3fcfd5f65e0c7cbae3827c56199\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853c03e77ae860440c721cd0f236a276\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\853c03e77ae860440c721cd0f236a276\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\2a38894d85d9c16e7755f33a1ad01a6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\2a38894d85d9c16e7755f33a1ad01a6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\86c8c725fd552e3dc93ad82badd7043c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\86c8c725fd552e3dc93ad82badd7043c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\74afe773b4b4cb87728dea168d1923a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\heshe\.gradle\caches\transforms-2\files-2.1\74afe773b4b4cb87728dea168d1923a6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heshe\OneDrive\Desktop\Android\Sams-app\app\src\main\AndroidManifest.xml
